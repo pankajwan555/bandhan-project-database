@@ -1,0 +1,10 @@
+# Exclude data files and logs
+*.dbf
+*.log
+
+# Exclude other Oracle artifacts
+/audit/
+/pfile/
+/admin/
+/dpdump/
+/dpdump/
